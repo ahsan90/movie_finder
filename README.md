@@ -1,6 +1,6 @@
 
-                                         Movie-Finder Application
-                                      ------------------------------
+                                         --:Movie-Finder Application:--
+                                      -----------------------------------
 This is simple Command Line Application Powered by popular Ruby Programming
 Language.
 
