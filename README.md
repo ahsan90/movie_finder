@@ -1,7 +1,7 @@
 
                                          --:Movie-Finder Application:--
                                       -----------------------------------
-This is simple Command Line Application Powered by popular Ruby Programming
+This is a simple Command Line Application Powered by popular Ruby Programming
 Language.
 
 To launch this application click on start.rb file(Make sure Ruby is installed
