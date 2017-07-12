@@ -1,0 +1,8 @@
+Avatar	Science-fic	30
+Notebook	Romance	60
+Love & Honers	Romance	65
+PK	Commedy	40
+Spider man 2	Adventure	90
+Terminator 3	Science-fic	50
+Prison Break	Thriller/TV Series	100
+Transporter 3	Action	50
