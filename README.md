@@ -10,6 +10,7 @@ on your machine).
 You can perform the following actions:
 -- list, find, add, quit
 
+Note: This whole problem is done according to ruby programming(Kevin skoglund) language tutorial from lynda.com site for learning purpose only.
 
 Sincerely,
 Md. Ahsanul Hoque
